@@ -1,7 +1,7 @@
 [submodule "client"]
   path = client
-  url = https://github.com/Andy2020lv/PortfolioWebsite/client.git
+  url = https://github.com/Andy2020lv/PortfolioWebsiteFullstack/client.git
 
 [submodule "server"]
   path = server
-  url = https://github.com/Andy2020lv/PortfolioWebsite/server.git
+  url = https://github.com/Andy2020lv/PortfolioWebsiteFullstack/server.git
